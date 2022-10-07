@@ -1,0 +1,28 @@
+HTTrack3.49-2 launched on Thu, 06 Oct 2022 10:31:43 at https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/index.html -O "/home/kumartej/websites/fishing2" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:32:22	Warning: 	File not parsed, looks like binary: https://p.w3layouts.com/robots.txt
+10:33:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/js/jquery.min.js
+10:33:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): m.servedby-buysellads.com/monetization.js
+10:33:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/js/jquery.vide.min.js
+10:33:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/js/owl.carousel.js
+10:34:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/js/bootstrap.min.js
+10:35:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/js/jquery.swipebox.min.js
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/fonts/glyphicons-halflings-regular.eot (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/bootstrap.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/fonts/glyphicons-halflings-regular.eot? (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/bootstrap.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/fonts/glyphicons-halflings-regular.ttf (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/bootstrap.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/fonts/glyphicons-halflings-regular.svg (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/bootstrap.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/images/pagenate.png (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/bootstrap.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/images/divice-pagenations.png (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/owl.carousel.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/AjaxLoader.gif (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/owl.carousel.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/grabbing.png (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/owl.carousel.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/images/loader.gif (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/swipebox.css)
+10:35:14	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/images/icons.png (from https://p.w3layouts.com/demos/july-2016/02-07-2016/aquatic_life/web/css/swipebox.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 31 seconds : 56 links scanned, 61 files written (2031712 bytes overall) [903684 bytes received at 4282 bytes/sec], 1274208 bytes transferred using HTTP compression in 37 files, ratio 27%, 3.1 requests per connection
+(10 errors, 7 warnings, 0 messages)
